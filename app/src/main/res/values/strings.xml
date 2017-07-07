@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android Chile</string>
+    <string name="facebook_app_id">843773952388352</string>
+    <string name="fb_login_protocol_scheme">fb843773952388352</string>
+
+    <!-- Titles -->
+    <string name="title_main_activity">GDG Android Santiago</string>
 </resources>
